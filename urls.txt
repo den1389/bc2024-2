@@ -1,3 +1,3 @@
 http://backend.course#den1389
 http://backend.course?name=%22Denys%22&github_name=den1389&group=%22%D0%A4%D0%B5%D0%BF-21%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
-https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=USD&sort=exchangedate&order=desc&json
+https://bank.gov.ua/NBU_StatisticsService/v2/api/data/banks?date=20231001&period=q&format=json
